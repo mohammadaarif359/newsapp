@@ -1,0 +1,72 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "independent",
+          "name": "Independent"
+        },
+        "author": "Thomas Kingsley",
+        "title": "Yorkshire cricket news – live: Azeem Rafiq questioned by MPs on racism allegations",
+        "description": "Follow updates live",
+        "url": "http://www.independent.co.uk/sport/cricket/yorkshire-news-live-racism-azeem-rafiq-b1958409.html",
+        "urlToImage": "https://static.independent.co.uk/2021/11/15/16/newFile-8.jpg?width=1200&auto=webp&quality=75",
+        "publishedAt": "2021-11-16T09:49:45Z",
+        "content": "Rafiq will appear before a committee today \r\nFormer Yorkshire cricketer Azeem Rafiq and the county clubs ex-chairman Roger Hutton will provide evidence today to a Department for Digital, Culture, Med… [+2463 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": "BBC Sport",
+        "title": "Watch: Rafiq questioned by MPs on Yorkshire racism",
+        "description": "Watch and follow live coverage as former Yorkshire cricketer Azeem Rafiq is questioned by the digital, culture, media and sport committee alongside former chair at Yorkshire County Cricket Roger Hutton and Tom Harrison & Barry O'Brien from the England and Wal…",
+        "url": "http://www.bbc.co.uk/sport/live/cricket/59294668",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+        "publishedAt": "2021-11-16T09:07:41.5323897Z",
+        "content": "The DCMS select committee was called to address concerns about the lack of\r\naction against individuals following the findings of the investigation by\r\nYorkshire\r\nIt will also address the ECBs handlin… [+454 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": "BBC Sport",
+        "title": "Yorkshire cricket racism scandal - how we got here",
+        "description": "BBC Sport sets out the timeline of the Azeem Rafiq racism scandal that has engulfed Yorkshire County Cricket Club and English cricket.",
+        "url": "http://www.bbc.co.uk/sport/cricket/59166142",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14229/production/_121437428_shutterstock_editorial_8827466h.jpg",
+        "publishedAt": "2021-11-16T06:37:29.5665984Z",
+        "content": "Azeem Rafiq became the youngest man to captain Yorkshire in 2012\r\nIt is the scandal that has engulfed cricket.\r\nOne of England's most historic sporting clubs embroiled in a damning episode, accused o… [+10819 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+}
+    
